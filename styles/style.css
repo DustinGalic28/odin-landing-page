@@ -137,3 +137,30 @@ button {
     color: #1F2937;
     text-align: end;
 }
+
+.call-action-container {
+    padding-left: 12.5em;
+    padding-right: 12.5em;
+    padding-top: 7em;
+    padding-bottom: 7em;
+    background-color: white;
+}
+
+.action-background {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    border-radius: 6px;
+    padding: 3em 6em;
+}
+
+.left-action h3 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+
+.action-button {
+    border: 2px solid white;
+    padding: .3em 1.75em;
+}
