@@ -86,7 +86,6 @@ button {
     padding-right: 18.5em;
     padding-top: 3em;
     padding-bottom: 7em;
-    border:  2px solid green;
 }
 .info-header {
     font-family: 'Roboto', sans-serif;
@@ -114,4 +113,27 @@ button {
 }
 .info-card-subtext {
     color: #1F2937;
+}
+
+.quote-section-container {
+    padding-left: 19em;
+    padding-right: 19em;
+    padding-top: 7em;
+    padding-bottom: 7em;
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.quoter {
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #1F2937;
+    text-align: end;
 }
